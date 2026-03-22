@@ -1,0 +1,17 @@
+rasterio
+numpy
+pandas
+torch
+torchvision
+streamlit
+folium
+geopandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+opencv-python
+reportlab
+requests
+tqdm
+pytest
