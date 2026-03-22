@@ -216,6 +216,10 @@ def build_model(num_classes: int = NUM_CLASSES, pretrained: bool = True) -> nn.M
     return backbone
 
 
+# Public alias — allows: from src.training.cnn_model import CropDiseaseCNN
+CropDiseaseCNN = build_model
+
+
 # ---------------------------------------------------------------------------
 # Dataloaders
 # ---------------------------------------------------------------------------

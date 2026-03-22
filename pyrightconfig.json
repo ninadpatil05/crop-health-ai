@@ -1,0 +1,9 @@
+{
+  "pythonVersion": "3.10",
+  "pythonPath": "C:/Users/Ninad/miniconda3/envs/cropai/python.exe",
+  "include": ["src"],
+  "exclude": ["data", "outputs", ".git"],
+  "typeCheckingMode": "basic",
+  "reportMissingImports": "warning",
+  "reportMissingModuleSource": "none"
+}
